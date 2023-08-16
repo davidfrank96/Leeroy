@@ -247,6 +247,13 @@ Section Title CSS
   font-family: "Sacramento", cursive;
 }
 
+.welcome {
+  font-size: 60px;
+  color: #ea512e;
+  font-weight: 600;
+  font-family: "Sacramento", cursive;
+}
+
 .section-title h2 {
   font-size: 45px;
   margin-top: 15px;
